@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "School"
+^C
+root@2e0ce6814fe5:/# cd /root

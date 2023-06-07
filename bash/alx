@@ -1,1 +1,8 @@
-echo "ALX"
+#!/bin/bash
+echo "ALX School"
+cd /
+cd ~/
+cd /root
+clear
+>
+d
